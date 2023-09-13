@@ -4,11 +4,12 @@ Gezi ve turlarınızı planlayabileceğiniz aynı zamanda fotoğraf ve yazılar 
 
 
 <h2>Popüler Turlar</h2>
-Güneydoğu Bölgesi
-Doğu Anadolu Bölgesi
-Karadeniz Bölgesi
-İç Anadolu Bölgesi
-
+<ul>
+<li>Güneydoğu Bölgesi</li>
+<li>Doğu Anadolu Bölgesi</li>
+<li>Karadeniz Bölgesi</li>
+<li>İç Anadolu Bölgesi</li>
+</ul>
 <h4>Ekran Görüntüsü</h4>
 
 ![](TurSitesi.gif)
