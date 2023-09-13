@@ -1,6 +1,6 @@
 <h1>Gezi ve Tur Sayfası</h1>
 
-Gezi ve turlarınızı planlayabileceğiniz aynı zamanda fotoğraf ve yazılar ile bilgi edinebileceğiniz bir sayfadır.
+Gezi ve turlarınızı planlayabileceğiniz aynı zamanda fotoğraf ve yazılarla birlikte bilgi edinebileceğiniz bir sayfadır.
 
 
 <h2>Popüler Turlar</h2>
