@@ -1,3 +1,1 @@
-# TurSitesi
-# TurSitesi
 # Tur-Sitesi
